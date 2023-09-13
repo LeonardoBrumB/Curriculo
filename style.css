@@ -1,0 +1,66 @@
+.container {
+    line-height: 150%;
+}
+
+/*header*/
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    align-items: center;
+    padding: 15px;
+    background-color: aqua;
+    justify-content: space-between;
+    display: flex;
+}
+
+.header h1 {
+    color: black;
+    font-size: xx-large;
+    margin-left: 30px;
+}
+
+.header social {
+    text-align: right;
+    margin-top: 8px;
+}
+
+/*Principal*/
+.content {
+    margin-top: 20px;
+    background-color: white;
+}
+
+.nome {
+    margin-left: 2em;
+    padding: 30px;
+    margin-bottom: -100px;
+    text-align: left;
+}
+
+.text {
+    padding: 6em;
+    font-size: normal;
+}
+
+p {
+    margin-top: -1em;
+}
+
+h3 {
+    padding: 3px;
+}
+
+.list {
+    border-left: 1px solid black;
+}
+
+/* rodapé */
+.footer {
+    background-color: grey;
+    text-align: center;
+    padding: 20px 10px;
+    font-family: 'Roboto', sans-serif;
+}
